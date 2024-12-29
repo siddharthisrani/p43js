@@ -70,6 +70,10 @@ function sid(){
 
 // let ans=a.map((num)=>num*2)
 
+// let ans=a.map((num)=>{
+//   return num*2
+// })
+
 // let ans=a.filter((num)=>num%2!==0)
 
 //  a.forEach((num)=>{

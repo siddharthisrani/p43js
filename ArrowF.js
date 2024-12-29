@@ -38,10 +38,10 @@ let start=()=>{
        
     let text=document.querySelector("#show")
 
-    text.innerHTML="Hello Siddharth";
+    text.innerHTML=`Hello Siddharth`;
     text.style.color="blue";
     text.style.fontSize="40px";
-    // body.style.backgroundColor="black"
+    document.body.style.backgroundColor="black"
      
 }
 
@@ -53,5 +53,6 @@ let start2=()=>{
     text.innerHTML="Hello Cybrom";
     text.style.color="red";
     text.style.fontSize="40px"
+     document.body.style.backgroundColor="white"
      
 }
