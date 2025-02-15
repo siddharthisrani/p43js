@@ -1,0 +1,74 @@
+{
+  "doctor": [
+    {
+      "name": "Sidddharth",
+      "age": 25,
+      "number": 6261437008,
+      "problem": "Cold",
+      "people": 2,
+      "date": "25-01-2025",
+      "price": 250,
+      "id": "b687"
+    },
+    {
+      "name": "Ragini",
+      "age": 23,
+      "number": 6261437008,
+      "problem": "Cold",
+      "people": 3,
+      "date": "25-01-2025",
+      "price": 250,
+      "id": "2506"
+    },
+    {
+      "name": "Himanshu",
+      "age": "22",
+      "number": "435335353",
+      "problem": "Pain",
+      "people": "3",
+      "date": "2025-01-24",
+      "price": 250,
+      "id": "6b57"
+    },
+    {
+      "id": "52d6",
+      "name": "Jatin",
+      "age": "33",
+      "number": "454545",
+      "problem": "Fever",
+      "people": "4",
+      "date": "2025-01-31",
+      "price": 250
+    },
+    {
+      "id": "95e0",
+      "name": "vijay",
+      "age": "33",
+      "number": "454545",
+      "problem": "Fever",
+      "people": "4",
+      "date": "2025-01-31",
+      "price": 250
+    },
+    {
+      "id": "cd80",
+      "name": "yash",
+      "age": "33",
+      "number": "454545",
+      "problem": "Fever",
+      "people": "4",
+      "date": "2025-01-31",
+      "price": 250
+    },
+    {
+      "id": "9435",
+      "name": "sid",
+      "age": "33",
+      "number": "454545",
+      "problem": "Fever",
+      "people": "4",
+      "date": "2025-01-31",
+      "price": 250
+    }
+  ]
+}

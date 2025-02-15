@@ -41,7 +41,7 @@ function okk(){
     // let ans=text.split(" ")
     // console.log(ans);   
 
-
+ 
    //=========== test q 9 ===============
   //  let ans;
   //  do{

@@ -19,7 +19,6 @@
 
 
 
-
 // // //obj.welcome(); // to call a function
  
 // // //console.log(obj.fruits[1]);

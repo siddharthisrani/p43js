@@ -1,0 +1,43 @@
+{
+
+   "flight":[  {
+        
+       "name":"Sid",
+       "age": 25,
+       "number":7348734984,
+       "AaharNo":38385783,
+       "Date":"25-01-2025",
+       "peoples":5,
+       "price":600
+
+   },{
+    "name":"raghav",
+    "age": 25,
+    "number":7348734984,
+    "AaharNo":38385783,
+    "Date":"25-01-2025",
+    "peoples":3,
+    "price":600
+   },{
+
+
+    "name":"Himanshu",
+    "age": 25,
+    "number":7348734984,
+    "AaharNo":38385783,
+    "Date":"25-01-2025",
+    "peoples":2,
+    "price":600
+
+   },{
+    "name":"Yash",
+    "age": 25,
+    "number":7348734984,
+    "AaharNo":38385783,
+    "Date":"25-01-2025",
+    "peoples":7,
+    "price":600
+   }  ]
+
+
+}
